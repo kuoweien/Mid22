@@ -70,6 +70,6 @@ public class MainActivity extends AppCompatActivity {
             startActivity(intent3);
             Toast.makeText(this, "特殊功能" ,Toast.LENGTH_LONG).show();
         }
-
     }
+
 }
